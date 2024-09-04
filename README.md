@@ -80,12 +80,11 @@ To get started with Stable Diffusion AI, you need to download the necessary mode
    - For more models and updates, check out the following resources:
      - [Hugging Face Stable Diffusion Collection](https://huggingface.co/CompVis)
      - [Stable Diffusion Official Website](https://stability.ai/stable-diffusion)
-     - [Model Overview and Documentation](https://stability.ai/research/stable-diffusion-models)
 
    Save the downloaded models to the appropriate directory in your project:
 
    ```text
-   D:\Machine_Learning_DiffuseAi\Project\Stable\models\Stable-diffusion\
+   /path/to/your/project/models/Stable-diffusion/
    ```
 
 ## Running the Model
@@ -103,7 +102,7 @@ This command will execute the main script that initializes the model and begins 
 1. **To Install and Run the Stable Diffusion AI easily:**
    - Navigate to the project directory:
      ```bash
-     cd Directory Path\Stable-Diffusion
+     cd /path/to/your/project/models/Stable-diffusion/
      ```
    - Run the web UI by executing:
      ```bash
