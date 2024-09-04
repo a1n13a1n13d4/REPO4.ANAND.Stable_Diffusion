@@ -4,13 +4,13 @@ Welcome to the Stable Diffusion AI repository. This project implements a deep le
 
 ## Repository
 
-[GitHub Repository Link](https://github.com/CompVis/stable-diffusion)
+[GitHub Repository Link](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ## Overview
 
 Stable Diffusion AI is a cutting-edge machine learning model that leverages diffusion processes for generating images. It has been designed to provide high-quality, high-resolution images while being computationally efficient.
 
-**Note:** This is an open-source project. Which I use and run as part of my internship. The project is freely available for anyone to use, modify, and contribute to. Here by the [Readme.md](https://github.com/a1n13a1n13d4/Repo4.ANAND.Stable_Diffusion/edit/main/README.md} I share my experience in running the Stable Diffusion Model. 
+**Note:** This is an open-source project. I use and run this as part of my internship. The project is freely available for anyone to use, modify, and contribute to. Here, through the [Readme.md](https://github.com/a1n13a1n13d4/Repo4.ANAND.Stable_Diffusion/edit/main/README.md), I share my experience in running the Stable Diffusion Model.
 
 ## Features
 
@@ -30,8 +30,8 @@ Before setting up the environment, ensure you have the following:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/CompVis/stable-diffusion.git
-   cd stable-diffusion
+   git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+   cd stable-diffusion-webui
    ```
 
 2. **Set Up Virtual Environment:**
@@ -67,7 +67,6 @@ Here are some of the key dependencies required by the project:
 - **Cython:** 3.0.11
 - **FlatBuffers:** 24.3.25
 - **Matplotlib:** For visualization purposes.
-& More.
 
 ## Download Model Files
 
@@ -127,4 +126,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, please contact me via email at [sanand03027005@gmail.com](mailto:sanand03027005@gmail.com?subject=Enquiry%20about%20Running%20Stable%20Diffusion%20AI) or connect with me on [LinkedIn](https://www.linkedin.com/in/anands37/).
 
-Now, clicking on the email link will open a new email with the subject "Enquiry about Running Stable Diffusion AI," and your LinkedIn profile is also linked.
