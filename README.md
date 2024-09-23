@@ -10,7 +10,7 @@ Welcome to the Stable Diffusion AI repository. This project implements a deep le
 
 Stable Diffusion AI is a cutting-edge machine learning model that leverages diffusion processes for generating images. It has been designed to provide high-quality, high-resolution images while being computationally efficient.
 
-**Note:** This is an open-source project that I use and run as part of my internship. The project is freely available for anyone to use, modify, and contribute to. Here, through the `README.md`, I share my experience in running the Stable Diffusion Model. 
+**Note:** This is an open-source project that I use and run as part of my internship. The project is freely available for anyone to use, modify, and contribute to. 
 
 So, I used the [AUTOMATIC1111's stable-diffusion-webui repository](https://github.com/AUTOMATIC1111/stable-diffusion-webui) as a base and updated the UI to feature a **Black Theme** for a more modern and visually appealing interface.
 
