@@ -60,10 +60,6 @@ This will initialize the model and begin the image generation process.
 - **Customizable UI**: Updated with a **Black Theme** for an improved user experience.
 - **Flexible Configuration**: Customize the model settings to suit various use cases.
 
-## Screenshot (Optional)
-
-*Add a screenshot or demo image of the UI or generated output here.*
-
 ## Contribution
 
 Contributions are welcome! If you have suggestions or find any issues, please feel free to submit a pull request or open an issue on GitHub.
@@ -72,7 +68,7 @@ Contributions are welcome! If you have suggestions or find any issues, please fe
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Acknowledgments (Optional)
+## Acknowledgments
 
 - Thanks to [AUTOMATIC1111](https://github.com/AUTOMATIC1111) for the original stable-diffusion-webui repository.
 - Special thanks to the contributors and the open-source community for supporting this project.
