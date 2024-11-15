@@ -75,4 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or support, please contact me via email at [sanand03027005@gmail.com](mailto:sanand03027005@gmail.com?subject=Enquiry%20about%20Running%20Stable%20Diffusion%20AI) or connect with me on [LinkedIn](https://www.linkedin.com/in/anands37/).
+For any inquiries or support, please contact me via email at [sanand03027005@gmail.com](mailto:sanand03027005@gmail.com?subject=Enquiry%20about%20Running%20Stable%20Diffusion%20AI) or connect with me on [LinkedIn](https://www.linkedin.com/in/anandsundaramoorthysa/).
