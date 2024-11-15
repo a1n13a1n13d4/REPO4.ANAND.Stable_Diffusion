@@ -27,7 +27,7 @@ I used the [AUTOMATIC1111's stable-diffusion-webui repository](https://github.co
 To clone the repository, run the following commands:
 
 ```bash
-git clone https://github.com/a1n13a1n13d4/REPO4.ANAND.Stable_Diffusion.git
+git clone https://github.com/anandsundaramoorthysa/REPO4.ANAND.Stable_Diffusion.git
 cd REPO4.ANAND.Stable_Diffusion
 ```
 
